@@ -38,4 +38,3 @@ if start == 'start':
     print('A vida era normal e calma, as vezes apareciam alguns vilões e esses eram derrotados como forma de teste para os alunos, porém um dia essa calma foi encerrada.')
     print("No dia do teste final dos alunos a organização Villan's District armou uma enboscada para os todos os heróis e a maioria foi derrotado, por conta disso algo fora do comum aconteceu, foi necessário pedir reforços para os heróis do Estados Unidos.")
     print(f'Após a chegada deles foram formadas equipes e o {nome} foi designado para uma, com o héroi Exterminator. Para facilitar a comunicação foi necessário utilizar o inglês, você consegue derrotar os vilões e salvar Tóquio?')
-    print(vida,enemyhealth1,bosshealth)
